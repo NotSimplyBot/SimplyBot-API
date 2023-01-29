@@ -1,0 +1,2 @@
+# SimplyBot-API
+API SimplyBot
